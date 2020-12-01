@@ -1,4 +1,4 @@
-# Text-Processing-using-NLTL-ML
+# Text-Processing-using-NLTK-ML
 The aim of the project was to develop 3 classification machine learning algorithms and check for their accuracy and suggesting the best suited algorithm for the given dataset.
 The given dataset had various columns, many of them not being required for either the questions or for the prediction.
 There was also a lot of cleaning involved in the given dataset, in columns containing numerical as well as categorical data.
